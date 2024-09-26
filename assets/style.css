@@ -1,0 +1,39 @@
+
+
+h1 {
+    font-family: fantasy;
+    color:rgba(244, 119, 140, 0.838);
+    background-color: bisque;
+    text-shadow: 5px 5px 7px rgba(0, 0, 0, 0.552);
+    text-align: center;
+    font-size: 3.8em;
+
+    
+}
+body {
+    background-color: bisque;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+input {
+    font-family: fantasy;
+    box-shadow: 5px 5px 7px rgb(0, 0, 0);
+   
+}
+input:hover {
+    background-color: rgb(230, 187, 15);
+}
+img {
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
+    margin-bottom: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-style: groove;
+    border-width: 0.6em;
+}
+
+
+/
